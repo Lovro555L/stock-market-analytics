@@ -1,8 +1,8 @@
-📊 Data-Driven Market Analytics
+- Data-Driven Market Analytics
 
 A project focused on exploring stock price movements, market trends, and business performance through data-driven analysis.
 
-🎯 Objectives
+- Objectives
 
 Analyze historical stock price behavior
 
@@ -12,7 +12,7 @@ Visualize key financial and market data
 
 Combine analytics with strategy to turn information into real value
 
-🧰 Technologies
+- Technologies
 
 Python (pandas, numpy, matplotlib)
 
@@ -22,7 +22,7 @@ Financial market data APIs
 
 Git / GitHub
 
-📁 Project Structure
+- Project Structure
 project/
 │── data/           # Raw and processed datasets
 │── notebooks/      # Jupyter notebooks for analysis and visualization
